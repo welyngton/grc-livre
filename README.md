@@ -1,2 +1,0 @@
-# grc-livre
-GRC - Livre
